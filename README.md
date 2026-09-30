@@ -6,9 +6,27 @@
 ---
 
 ## 👨‍💻 À propos de moi
-Professionnel de l'informatique cumulant **plus de 4 ans d'expérience concrète** en soutien technique (Niveaux 1 et 2), diagnostic et maintenance d'infrastructures. Actuellement en spécialisation (AEC) au Collège Éllis pour parfaire mes compétences en administration de réseaux, virtualisation et cybersécurité. 
+PÉtudiant en AEC en informatique au Collège Ellis de Montréal, à la recherche d’un stage de fin d’études en soutien informatique, administration des systèmes et cybersécurité. 
+Formation pratique en Windows Server 2022, Active Directory, administration système Linux, Microsoft 365, TCP/IP, DNS, VPN et dépannage informatique. 
+Réalisation de plusieurs projets académiques en administration des systèmes et cybersécurité. Autonome, rigoureux, avec une forte capacité d’apprentissage et un bon esprit de service. 
 
-Fortement axé sur le service, j'occupe présentement un rôle de soutien technique et pédagogique au sein des laboratoires informatiques de mon institution tout en complétant mon parcours académique.
+EXPÉRIENCES PROFESSIONNELLES
+Soutien Enseignant | Collège Éllis – Montréal, QC
+Septembre 2026 – Présent
+▪	Fournir un support technique de premier niveau aux enseignants pour le matériel informatique et les outils numériques en salle de classe
+▪	Assurer la configuration et le bon fonctionnement des équipements des laboratoires informatiques
+▪	Diagnostiquer et résoudre les incidents techniques (postes de travail, connectivité réseau) survenant durant les cours
+▪	Accompagner les étudiants dans la réalisation de leurs travaux pratiques et laboratoires informatiques
+Technicien Support & Maintenance Informatique | Hébron Service Informatique – Abidjan, CI   
+Janvier 2020 – Décembre 2024
+▪	Diagnostiquer et configurer le matériel informatique et les postes de travail (Windows 10/11)
+▪	Assurer le support technique de niveaux 1–2 pour la résolution rapide de pannes logicielles, de réseaux et de périphériques 
+▪	Gérer les comptes des utilisateurs, le déploiement des correctifs de sécurité et les solutions antivirus
+▪	Former et accompagner les utilisateurs aux outils bureautiques et à l'informatique de base
+▪	Prendre en charge la gestion des stocks, la facturation, le suivi de la clientèle et la rédaction de la documentation technique
+Bénévole | Centre d'action bénévole Solange-Beauchamp (CAB) – Sainte-Thérèse, QC 
+Mai 2025 
+▪	Offrir des services d'accompagnement transport, de soutien à domicile et de visites téléphoniques d'amitié auprès des personnes en perte d'autonomie.
 
 ---
 
