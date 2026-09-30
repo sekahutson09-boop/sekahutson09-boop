@@ -1,6 +1,6 @@
 # Hutson Hermann Seka
-### Étudiant en Sécurité Informatique et Réseaux | Technicien Systèmes & Support TI
-📍 Blainville, QC | 💼 À la recherche d'un stage de fin d'études (Hiver 2027)
+### Étudiant en AEC Sécurité Informatique et Réseaux 
+📍 Blainville, QC
 📞 367-977-0583 | ✉ sekahutson09@gmail.com | 🔗 [Mon profil LinkedIn](https://linkedin.com)
 
 ---
