@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 À propos de moi
-PÉtudiant en AEC en informatique au Collège Ellis de Montréal, à la recherche d’un stage de fin d’études en soutien informatique, administration des systèmes et cybersécurité. 
+Étudiant en AEC en informatique au Collège Ellis de Montréal, à la recherche d’un stage de fin d’études en soutien informatique, administration des systèmes et cybersécurité. 
 Formation pratique en Windows Server 2022, Active Directory, administration système Linux, Microsoft 365, TCP/IP, DNS, VPN et dépannage informatique. 
 Réalisation de plusieurs projets académiques en administration des systèmes et cybersécurité. Autonome, rigoureux, avec une forte capacité d’apprentissage et un bon esprit de service. 
 
