@@ -11,6 +11,7 @@ Formation pratique en Windows Server 2022, Active Directory, administration syst
 Réalisation de plusieurs projets académiques en administration des systèmes et cybersécurité. Autonome, rigoureux, avec une forte capacité d’apprentissage et un bon esprit de service. 
 
 EXPÉRIENCES PROFESSIONNELLES
+
 Soutien Enseignant | Collège Éllis – Montréal, QC
 Septembre 2026 – Présent
 ▪	Fournir un support technique de premier niveau aux enseignants pour le matériel informatique et les outils numériques en salle de classe
